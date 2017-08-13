@@ -10,7 +10,6 @@
     "description": "Testing testing 123",
     "display_name": "Cosmic War",
     "forum": "https://forums.uberent.com/threads/cosmic-war-expansion.72515/",
-    "icon": "",
     "identifier": "cosmicwar.expansion.TESTING",
     "scenes": {
             },
@@ -19,22 +18,13 @@
     "version": "1",
     "titansOnly": true,
     "hidden": true,
-    "url": "",
-    "download": "",
     "unitList": false,
     "fileSystem": false,
-    "searchable": [
-            ],
-    "sort": "",
-    "authors": [
-            ],
     "timestamp": 1502630325,
-    "companions": [],
     "framework": false,
     "available": true,
     "enabled": true,
     "classicOnly": false,
     "classic": false,
     "titans": true,
-    "conflicts": {}
 }
