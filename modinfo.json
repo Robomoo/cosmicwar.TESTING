@@ -5,14 +5,12 @@
     "date": "2017-08-13",
     "dependencies": [
         "com.pa.legion-expansion-server"
-	   "com.pa.legion-expansion-client"
+	   "com.pa.legion-expansion-client",
     ],
     "description": "Testing testing 123",
     "display_name": "Cosmic War",
     "forum": "https://forums.uberent.com/threads/cosmic-war-expansion.72515/",
     "identifier": "cosmicwar.expansion.TESTING",
-    "scenes": {
-            },
     "priority": 90,
     "signature": "(not yet implemented)",
     "version": "1",
