@@ -1,0 +1,40 @@
+{
+    "author": "Robomoo",
+    "build": "105067",
+    "context": "client",
+    "date": "2017-08-13",
+    "dependencies": [
+        "com.pa.legion-expansion-server"
+	   "com.pa.legion-expansion-client"
+    ],
+    "description": "Testing testing 123",
+    "display_name": "Cosmic War",
+    "forum": "https://forums.uberent.com/threads/cosmic-war-expansion.72515/",
+    "icon": ,
+    "identifier": "cosmicwar.expansion.TESTING",
+    "scenes": {
+            },
+    "priority": 90,
+    "signature": "(not yet implemented)",
+    "version": "1",
+    "titansOnly": true,
+    "hidden": true,
+    "url": ,
+    "download": ,
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+            ],
+    "sort": ,
+    "authors": [
+            ],
+    "timestamp": 1502630325,
+    "companions": [],
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "classicOnly": false,
+    "classic": false,
+    "titans": true,
+    "conflicts": {}
+}
